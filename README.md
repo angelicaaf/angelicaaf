@@ -1,7 +1,7 @@
 <h1 align="center">oi 👋, eu sou A Angelica</h1>
 <h3 align="center">Estudante de ti</h3>
 
-- ⚡ Curiosidade **eu amo jogos de história**
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
